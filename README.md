@@ -16,6 +16,51 @@ be installed together; all credit goes to the authors below.
 | [`scalpel`](scalpel) | Standard operating procedure for codebase agents: rules, scenarios, and checklists | Harshil Anuwadia | [Harshil-Anuwadia/scalpel-sop](https://github.com/Harshil-Anuwadia/scalpel-sop) | MIT |
 | [`ui-ux-pro-max`](ui-ux-pro-max) | Searchable UI/UX design intelligence: styles, palettes, font pairings, UX guidelines, stacks | Next Level Builder | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | MIT |
 
+## Additional skills
+
+These 38 skills are by **Matt Pocock**, from [mattpocock/skills](https://github.com/mattpocock/skills). Their installed `SKILL.md` files match upstream commit `49dd158d1076134a641b33efb035946536778336`. Supporting files are copied from the installed versions. Each exported folder includes the upstream MIT licence (© 2026 Matt Pocock).
+
+| Skill | Author | Source | License |
+|---|---|---|---|
+| [`ask-matt`](ask-matt) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/ask-matt) | MIT |
+| [`chief-of-staff`](chief-of-staff) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/chief-of-staff) | MIT |
+| [`claude-handoff`](claude-handoff) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/claude-handoff) | MIT |
+| [`code-review`](code-review) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/code-review) | MIT |
+| [`codebase-design`](codebase-design) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/codebase-design) | MIT |
+| [`diagnosing-bugs`](diagnosing-bugs) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/diagnosing-bugs) | MIT |
+| [`domain-modeling`](domain-modeling) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/domain-modeling) | MIT |
+| [`git-guardrails-claude-code`](git-guardrails-claude-code) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/misc/git-guardrails-claude-code) | MIT |
+| [`grill-me`](grill-me) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/grill-me) | MIT |
+| [`grill-with-docs`](grill-with-docs) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/grill-with-docs) | MIT |
+| [`grilling`](grilling) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/grilling) | MIT |
+| [`handoff`](handoff) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/handoff) | MIT |
+| [`implement`](implement) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/implement) | MIT |
+| [`implement-spec`](implement-spec) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/implement-spec) | MIT |
+| [`improve-codebase-architecture`](improve-codebase-architecture) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/improve-codebase-architecture) | MIT |
+| [`loop-me`](loop-me) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/loop-me) | MIT |
+| [`migrate-to-shoehorn`](migrate-to-shoehorn) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/misc/migrate-to-shoehorn) | MIT |
+| [`pr`](pr) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/pr) | MIT |
+| [`prototype`](prototype) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/prototype) | MIT |
+| [`research`](research) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/research) | MIT |
+| [`retro`](retro) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/retro) | MIT |
+| [`scaffold-exercises`](scaffold-exercises) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/misc/scaffold-exercises) | MIT |
+| [`setup-matt-pocock-skills`](setup-matt-pocock-skills) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/setup-matt-pocock-skills) | MIT |
+| [`setup-pre-commit`](setup-pre-commit) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/misc/setup-pre-commit) | MIT |
+| [`setup-ts-deep-modules`](setup-ts-deep-modules) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/setup-ts-deep-modules) | MIT |
+| [`tdd`](tdd) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/tdd) | MIT |
+| [`teach`](teach) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/teach) | MIT |
+| [`to-questionnaire`](to-questionnaire) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/to-questionnaire) | MIT |
+| [`to-spec`](to-spec) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/to-spec) | MIT |
+| [`to-tickets`](to-tickets) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/to-tickets) | MIT |
+| [`triage`](triage) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/triage) | MIT |
+| [`wait-what`](wait-what) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/wait-what) | MIT |
+| [`wayfinder`](wayfinder) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/wayfinder) | MIT |
+| [`wizard`](wizard) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/wizard) | MIT |
+| [`writing-beats`](writing-beats) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/writing-beats) | MIT |
+| [`writing-for-agents`](writing-for-agents) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/writing-for-agents) | MIT |
+| [`writing-fragments`](writing-fragments) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/writing-fragments) | MIT |
+| [`writing-shape`](writing-shape) | Matt Pocock | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/in-progress/writing-shape) | MIT |
+
 ## Credits
 
 - **apple-design** — © 2026 Emil Kowalski, MIT. The content is Emil Kowalski's
