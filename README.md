@@ -90,6 +90,23 @@ license of its own over their work.
 
 ## Install
 
+Download and install all 43 skills with curl:
+
+```bash
+curl -fsSL https://github.com/Ahmedwaleed22/my-agent-skills/archive/refs/heads/main.tar.gz | tar -xz -C /tmp && bash /tmp/my-agent-skills-main/install.sh
+```
+
+The default destination is `/workspace/.agents/skills`. Existing skills are
+skipped, and unrelated skills are left untouched.
+
+After downloading, install into a different directory if needed:
+
+```bash
+bash /tmp/my-agent-skills-main/install.sh ~/.claude/skills
+```
+
+If you have already cloned this repository, run:
+
 ```bash
 ./install.sh                    # into /workspace/.agents/skills
 ./install.sh ~/.claude/skills   # into any other skills directory
